@@ -16,7 +16,7 @@ using namespace std;
 //Admin's code
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "\nHACKED";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
